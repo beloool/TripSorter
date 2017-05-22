@@ -1,0 +1,33 @@
+[
+  {
+    "departureLocation": "Stockholm",
+    "transportation": "Plane",
+    "transport_number": "SK22",
+    "seat": "7B",
+    "gate": "22",
+    "baggage_counter": "",
+    "arrivalLocation": "New York JFK"
+  },
+  {
+    "departureLocation": "Madrid",
+    "transportation": "Train",
+    "transport_number": "78A",
+    "seat": "45B",
+    "baggage_counter": "",
+    "a
+  {
+    "departureLocation": "Barcelona",
+    "transportation": "Bus",
+    "transport_number": "",
+    "seat": "",
+    "baggage_counter": "",
+    "arrivalLocation": "Gerona Airport"
+  },
+  ansportation": "Plane",
+    "transport_number": "SK455",
+    "seat": "3A",
+    "gate": "45B",
+    "baggage_counter": "344",
+    "arrivalLocation": "Stockholm"
+  }
+]
